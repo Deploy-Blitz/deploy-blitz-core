@@ -4,5 +4,5 @@
           <feColorMatrix type="matrix" values="0 0 0 0 0.97647058823529                   0 0 0 0 0.92156862745098                   0 0 0 0 0.18823529411765                   0 0 0 1 0 "/>
       </filter>
     </defs>
-    <image id="icon" xlink:href="https://app.brandmark.io/nounpreview/563095.png" style="filter: url(#colorFill);" transform="translate(20 20) scale(0.8)"/>
+    <image id="icon" xlink:href="https://raw.githubusercontent.com/Deploy-Blitz/deploy-blitz-core/main/images/icon_light.png" style="filter: url(#colorFill);" transform="translate(20 20) scale(0.8)"/>
 </svg>
