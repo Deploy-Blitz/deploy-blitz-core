@@ -10,3 +10,6 @@
 [submodule "deploy-blitz-docker"]
 	path = deploy-blitz-docker
 	url = https://github.com/Deploy-Blitz/deploy-blitz-docker.git
+[submodule "deploy-blitz-documentation"]
+	path = deploy-blitz-documentation
+	url = https://github.com/Deploy-Blitz/deploy-blitz-documentation.git
