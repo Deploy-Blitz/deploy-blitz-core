@@ -1,12 +1,12 @@
 [submodule "deploy-blitz-api-gateway"]
-	path = deploy-blitz-frontend
-	url = git@github.com:Deploy-Blitz/deploy-blitz-api-gateway.git
+	path = deploy-blitz-api-gateway
+	url = https://github.com/Deploy-Blitz/deploy-blitz-api-gateway.git
 [submodule "deploy-blitz-frontend"]
 	path = deploy-blitz-frontend
-	url = git@github.com:Deploy-Blitz/deploy-blitz-frontend.git
+	url = https://github.com/Deploy-Blitz/deploy-blitz-frontend.git
 [submodule "deploy-blitz-backend"]
 	path = deploy-blitz-backend
-	url = git@github.com:Deploy-Blitz/deploy-blitz-backend.git
+	url = https://github.com/Deploy-Blitz/deploy-blitz-backend.git
 [submodule "deploy-blitz-docker"]
 	path = deploy-blitz-docker
-	url = git@github.com:Deploy-Blitz/deploy-blitz-docker.git
+	url = https://github.com/Deploy-Blitz/deploy-blitz-docker.git
