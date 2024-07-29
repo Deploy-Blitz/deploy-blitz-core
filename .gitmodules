@@ -1,15 +1,20 @@
 [submodule "deploy-blitz-api-gateway"]
 	path = deploy-blitz-api-gateway
 	url = https://github.com/Deploy-Blitz/deploy-blitz-api-gateway.git
+	branch = main
 [submodule "deploy-blitz-frontend"]
 	path = deploy-blitz-frontend
 	url = https://github.com/Deploy-Blitz/deploy-blitz-frontend.git
+	branch = main
 [submodule "deploy-blitz-backend"]
 	path = deploy-blitz-backend
 	url = https://github.com/Deploy-Blitz/deploy-blitz-backend.git
+	branch = main
 [submodule "deploy-blitz-docker"]
 	path = deploy-blitz-docker
 	url = https://github.com/Deploy-Blitz/deploy-blitz-docker.git
+	branch = main
 [submodule "deploy-blitz-documentation"]
 	path = deploy-blitz-documentation
 	url = https://github.com/Deploy-Blitz/deploy-blitz-documentation.git
+	branch = main
